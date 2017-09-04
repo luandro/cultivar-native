@@ -1,0 +1,13 @@
+{
+  "name": "Cultivar",
+  "displayName": "Cultivar",
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "com.luandro.cultivar"
+    },
+    "android": {
+      "package": "com.luandro.cultivar"
+    }
+  }
+}

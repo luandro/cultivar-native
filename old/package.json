@@ -1,0 +1,36 @@
+{
+  "name": "cultivar",
+  "version": "0.1.0",
+  "devDependencies": {
+    "jest-expo": "~20.0.0",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "reactotron-react-native": "^1.12.2",
+    "reactotron-redux": "^1.12.2",
+    "remote-redux-devtools": "^0.5.12"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^5.1.0",
+    "apollo-client": "^1.9.1",
+    "apollo-offline": "^0.0.5",
+    "native-base": "^2.3.1",
+    "react": "16.0.0-alpha.12",
+    "react-apollo": "^1.4.14",
+    "react-native": "^0.47.0",
+    "react-native-code-push": "^5.0.0-beta",
+    "react-native-i18n": "^2.0.4",
+    "react-native-modalbox": "^1.4.2",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-offline": "^2.0.0"
+  }
+}

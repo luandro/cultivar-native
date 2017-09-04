@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">kTjxOuKXMeV9bkSbfQJEiwkn6cyd01564ae9-a21b-4551-b2b7-e5727be2ac51</string>
+    <string name="app_name">cultivar</string>
+</resources>
